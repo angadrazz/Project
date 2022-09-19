@@ -15,7 +15,7 @@
 <body>
 <div class="header sticky-top">
         <nav class="navbar navbar-expand-md navbar-light">
-            <a class="navbar-brand" href="index.html">
+            <a class="navbar-brand" href="index.php">
                 <img src="img/logo.png" />
             </a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#my-navbar">
@@ -49,7 +49,7 @@
     <nav aria-label="breadcrumb">
         <ol class="breadcrumb py-2">
             <li class="breadcrumb-item">
-                <a href="index.html">Home</a>
+                <a href="index.php">Home</a>
             </li>
             <li class="breadcrumb-item active" aria-current="page">
                 Dashboard
@@ -113,7 +113,7 @@
                             <div class="rent-unit">per month</div>
                         </div>
                         <div class="button-container col-6">
-                            <a href="property_detail.html" class="btn btn-primary">View</a>
+                            <a href="property_detail.php" class="btn btn-primary">View</a>
                         </div>
                     </div>
                 </div>
@@ -149,7 +149,7 @@
                             <div class="rent-unit">per month</div>
                         </div>
                         <div class="button-container col-6">
-                            <a href="property_detail.html" class="btn btn-primary">View</a>
+                            <a href="property_detail.php" class="btn btn-primary">View</a>
                         </div>
                     </div>
                 </div>
@@ -163,16 +163,16 @@
         <div class="page-container footer-container">
             <div class="footer-cities">
                 <div class="footer-city">
-                    <a href="property_list.html">PG in Delhi</a>
+                    <a href="property_list.php">PG in Delhi</a>
                 </div>
                 <div class="footer-city">
-                    <a href="property_list.html">PG in Mumbai</a>
+                    <a href="property_list.php">PG in Mumbai</a>
                 </div>
                 <div class="footer-city">
-                    <a href="property_list.html">PG in Bangalore</a>
+                    <a href="property_list.php">PG in Bangalore</a>
                 </div>
                 <div class="footer-city">
-                    <a href="property_list.html">PG in Hyderabad</a>
+                    <a href="property_list.php">PG in Hyderabad</a>
                 </div>
             </div>
             <div class="footer-copyright">© 2020 Copyright PG Life </div>
