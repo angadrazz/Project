@@ -17,7 +17,7 @@ $password-$_POST['password'];
 
 $sql = "INSERT INTO users (name, email, password) VALUES ('$name', $email', '$password')";
 
-$result - mysqli_query($conn, $sql); 
+$result = mysqli_query($conn, $sql); 
 if (!$result) {
   echo "Error:" .mysqli_error ($conn); 
 exit;
