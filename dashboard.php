@@ -1,3 +1,4 @@
+<?php include('register_submit.php') ?>
 <!DOCTYPE html>
 <html lang="en">
 
@@ -28,7 +29,7 @@
                         Hi, Aditya Sood
                     </div>
                     <li class="nav-item">
-                        <a class="nav-link" href="dashboard.html">
+                        <a class="nav-link" href="dashboard.php">
                             <i class="fas fa-user"></i>Dashboard
                         </a>
                     </li>
