@@ -1,3 +1,4 @@
+<?php include('register_submit.php') ?>
 <!DOCTYPE html>
 <html lang="en">
 
